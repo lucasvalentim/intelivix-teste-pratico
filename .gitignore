@@ -1,4 +1,7 @@
 venv/
+.ipynb_checkpoints/
+alembic/__pycache__/
+alembic/versions/__pycache__/
 datasets/
 processos.csv
 andamentos.csv
