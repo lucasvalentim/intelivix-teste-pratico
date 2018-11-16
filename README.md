@@ -31,7 +31,7 @@ pip install -r requirements.txt
 Rode o Docker Compose:
 
 ```
-docker-composer up
+docker-compose up
 ```
 
 Abra o projeto com o Jupyter Notebook:
