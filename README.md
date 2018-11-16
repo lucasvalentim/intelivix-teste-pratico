@@ -1,6 +1,6 @@
 ﻿# Intelivix Teste Prático
 
-Este projeto contem as etapas requisitadas no [teste_pratico_engenharia](https://github.com/intelivix/teste_pratico_engenharia), que é destinado aos candidatos a desenvolvedor no time de "Engenharia de Dados" da [Intelivix](https://github.com/intelivix).
+Este projeto contém as etapas requisitadas no [teste_pratico_engenharia](https://github.com/intelivix/teste_pratico_engenharia), que é destinado aos candidatos a desenvolvedor no time de "Engenharia de Dados" da [Intelivix](https://github.com/intelivix).
 
 ## Pré-requisitos para rodar o projeto
 
@@ -28,7 +28,7 @@ Instale as dependências do projeto:
 pip install -r requirements.txt
 ```
 
-Rode o Docker Compose:
+Crie e suba os containers:
 
 ```
 docker-compose up
